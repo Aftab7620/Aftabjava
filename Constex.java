@@ -3,6 +3,7 @@ public class Constex {
         String name;  
         int age;  
         //creating two arg constructor  
+        // creating constructor 
         Constex(int i,String n)
         {  
         id = i;  
