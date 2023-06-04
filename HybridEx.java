@@ -1,3 +1,4 @@
+
 class Car 
 {  
     public void displayBrand()  
@@ -31,4 +32,4 @@ public static void main(String args[])
     obj.displayMsg();  
 }  
 }  
-
+//Implementation of Hybrid Inheritance 
