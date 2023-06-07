@@ -4,7 +4,7 @@ import java.io.IOException;
 
 // Main class
 public class Filewrite{
-
+//Program for file handling in java
    
     public static void main(String[] args)
     {
