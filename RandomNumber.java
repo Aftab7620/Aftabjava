@@ -11,6 +11,7 @@ class RandomNumber
 
     public static void main(String args[])
     {
+        //calculating the time required 
         long start = System.currentTimeMillis();
         generateRandom(100000);
         long finish = System.currentTimeMillis();
