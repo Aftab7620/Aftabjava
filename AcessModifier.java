@@ -1,7 +1,7 @@
 class Demo
 {
-    public String name;
-    private int a=5;
+    public String name;//global access
+    private int a=5;//only in particular class
     protected String s;
     
     void print()
