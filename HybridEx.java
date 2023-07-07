@@ -1,4 +1,4 @@
-
+//program for hybrid inheritance
 class Car 
 {  
     public void displayBrand()  
