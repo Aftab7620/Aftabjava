@@ -1,3 +1,4 @@
+// program for hierarchical inheritance
 class Base
 {
     int original=10;
