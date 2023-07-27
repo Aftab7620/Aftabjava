@@ -11,6 +11,7 @@ class A7 implements Printable,Showable
     public void print()
     {
         System.out.println("Hello");
+        system.out.println("world:");
     }
     public void show()
     {
